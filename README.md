@@ -5,7 +5,7 @@
 This module requires [Nestjs](https://nestjs.com/) to run.
 
 ```sh
-$ npm install --save nestjs-firebase-module
+$ npm install --save nest-firebase-module
 ```
 
 ### Examples
